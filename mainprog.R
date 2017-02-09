@@ -1,5 +1,5 @@
 remove(list=ls())
-zpath<-("//alroseserver/HomeFolders/JacoboP/JacoboP$/customers")
+zpath<-("NOT SHOW")
 setwd(zpath)
 #source("mainprog.R")
 
